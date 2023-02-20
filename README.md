@@ -8,7 +8,7 @@
 
 Friends of Toto is a website designed to bring pets together! Here you can create an account for your pet, upload photos, and intereact with other pet users. The application allows you to follower users and you are able to add comments to posts.
 
-Live URL: https://friendsoftoto.herokuapp.com/
+Live URL: https://myfriendsoftoto.herokuapp.com/
 
 ### Test Account Login Credentials
 
@@ -56,7 +56,7 @@ Live URL: https://friendsoftoto.herokuapp.com/
 ## Contributors
 
 - [Jillian FitzMaurice](https://github.com/ShyFidelity)
-- [Nate Irvin](https://github.com/irv0735)x
+- [Nate Irvin](https://github.com/irv0735)
 - [Micheal Limones](https://github.com/ZestyLimones)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
