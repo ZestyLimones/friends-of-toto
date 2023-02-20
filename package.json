@@ -2,6 +2,9 @@
   "name": "friends-of-toto",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": "v16.13.1"
+  },
   "main": "server/server.js",
   "scripts": {
     "start": "node server/server.js",
